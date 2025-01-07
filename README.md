@@ -1,10 +1,10 @@
 ### Python
 
-# 1 aula
+# 1º aula
 
 - Teste
 
-# 2 aula
+# 2º aula
 
 - Variaveis primitivas
 - Função Type ( mostra os tipos de variaveis)
